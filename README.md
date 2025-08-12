@@ -13,11 +13,6 @@ The algorithm blends them to produce a new image that preserves the content but 
 
 ---
 
-## 🖼️ Example
-| Content Image | Style Image | Stylized Output |
-|---------------|-------------|-----------------|
-| ![content](assets/content.jpg) | ![style](assets/style.jpg) | ![output](assets/output.jpg) |
-
 ---
 
 ## 🚀 Features
